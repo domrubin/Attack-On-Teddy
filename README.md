@@ -1,1 +1,2 @@
 # Attack-On-Teddy
+Attack On Teddy served as my introduction to programming UI and animations. Gameplay consists of the player controlling a baby in his room attacking waves of incoming nightmarish teddy bears with squirts from his bottle. Animation s proved to be bdifficult for me as I learned them, especially triggering them and rolling back into an original animation. I have since learned teh importance of blend trees and have experience in using them.
